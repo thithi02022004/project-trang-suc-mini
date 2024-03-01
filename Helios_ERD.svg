@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="45 5 1259 695" width="1214px" height="690px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="520" y1="70" x2="510" y2="70" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="389" y1="50" x2="379" y2="50" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="510" y1="70" x2="389" y2="50" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="512.5" y1="70" x2="516.03553390593" y2="73.535533905933" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="512.5" y1="70" x2="516.03553390593" y2="66.464466094067" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="384" y1="50" x2="387.53553390593" y2="53.535533905933" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="384" y1="50" x2="387.53553390593" y2="46.464466094067" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="800" y1="100" x2="790" y2="100" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="621" y1="370" x2="611" y2="370" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="790" y1="100" x2="621" y2="370" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="792.5" y1="100" x2="796.03553390593" y2="103.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="792.5" y1="100" x2="796.03553390593" y2="96.464466094067" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="616" y1="370" x2="619.53553390593" y2="373.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="616" y1="370" x2="619.53553390593" y2="366.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="629" y1="230" x2="639" y2="230" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="790" y1="80" x2="800" y2="80" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="639" y1="230" x2="790" y2="80" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="636.5" y1="230" x2="632.96446609407" y2="233.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="636.5" y1="230" x2="632.96446609407" y2="226.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="795" y1="80" x2="791.46446609407" y2="83.535533905933" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="795" y1="80" x2="791.46446609407" y2="76.464466094067" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="520" y1="250" x2="510" y2="250" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="389" y1="50" x2="379" y2="50" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="510" y1="250" x2="389" y2="50" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="512.5" y1="250" x2="516.03553390593" y2="253.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="512.5" y1="250" x2="516.03553390593" y2="246.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="384" y1="50" x2="387.53553390593" y2="53.535533905933" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="384" y1="50" x2="387.53553390593" y2="46.464466094067" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="971" y1="350" x2="981" y2="350" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="983" y1="550" x2="973" y2="550" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="981" y1="350" x2="983" y2="550" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="978.5" y1="350" x2="974.96446609407" y2="353.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="978.5" y1="350" x2="974.96446609407" y2="346.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="978" y1="550" x2="981.53553390593" y2="553.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="978" y1="550" x2="981.53553390593" y2="546.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="995" y1="220" x2="1005" y2="220" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="981" y1="330" x2="971" y2="330" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="1005" y1="220" x2="981" y2="330" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="1002.5" y1="220" x2="998.96446609407" y2="223.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="1002.5" y1="220" x2="998.96446609407" y2="216.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="976" y1="330" x2="979.53553390593" y2="333.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="976" y1="330" x2="979.53553390593" y2="326.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="860" y1="240" x2="850" y2="240" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="621" y1="370" x2="611" y2="370" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="850" y1="240" x2="621" y2="370" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="852.5" y1="240" x2="856.03553390593" y2="243.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="852.5" y1="240" x2="856.03553390593" y2="236.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="616" y1="370" x2="619.53553390593" y2="373.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="616" y1="370" x2="619.53553390593" y2="366.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="290" y1="90" x2="280" y2="90" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="139" y1="230" x2="129" y2="230" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="280" y1="90" x2="139" y2="230" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="282.5" y1="90" x2="286.03553390593" y2="93.535533905933" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="282.5" y1="90" x2="286.03553390593" y2="86.464466094067" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="134" y1="230" x2="137.53553390593" y2="233.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="134" y1="230" x2="137.53553390593" y2="226.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="290" y1="70" x2="280" y2="70" style="stroke:#333;stroke-width:1;"/>
+   <line x1="164" y1="50" x2="154" y2="50" style="stroke:#333;stroke-width:1;"/>
+   <line x1="280" y1="70" x2="164" y2="50" style="stroke:#333;stroke-width:1;"/>
+   <line x1="282.5" y1="70" x2="286.03553390593" y2="73.535533905933" style="stroke:#333;stroke-width:2;"/>
+   <line x1="282.5" y1="70" x2="286.03553390593" y2="66.464466094067" style="stroke:#333;stroke-width:2;"/>
+   <line x1="159" y1="50" x2="162.53553390593" y2="53.535533905933" style="stroke:#333;stroke-width:2;"/>
+   <line x1="159" y1="50" x2="162.53553390593" y2="46.464466094067" style="stroke:#333;stroke-width:2;"/>
+   <line x1="388" y1="450" x2="398" y2="450" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="389" y1="50" x2="379" y2="50" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="398" y1="450" x2="389" y2="50" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="395.5" y1="450" x2="391.96446609407" y2="453.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="395.5" y1="450" x2="391.96446609407" y2="446.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="384" y1="50" x2="387.53553390593" y2="53.535533905933" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="384" y1="50" x2="387.53553390593" y2="46.464466094067" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="388" y1="470" x2="398" y2="470" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="520" y1="370" x2="530" y2="370" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="398" y1="470" x2="520" y2="370" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="395.5" y1="470" x2="391.96446609407" y2="473.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="395.5" y1="470" x2="391.96446609407" y2="466.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="525" y1="370" x2="521.46446609407" y2="373.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="525" y1="370" x2="521.46446609407" y2="366.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="530" y1="570" x2="520" y2="570" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="363" y1="560" x2="353" y2="560" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="520" y1="570" x2="363" y2="560" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="522.5" y1="570" x2="526.03553390593" y2="573.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="522.5" y1="570" x2="526.03553390593" y2="566.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="358" y1="560" x2="361.53553390593" y2="563.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="358" y1="560" x2="361.53553390593" y2="556.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <rect width="69" height="20" x="60" y="200" style="fill:#007;stroke:black;"/>
+   <text width="69" height="20" x="65" y="214" style="fill:#fff;" font-family="Arial" font-size="16px"> db_brand</text>
+   <rect width="69" height="20" x="60" y="220" style="fill:#aea;stroke:black;"/>
+   <text width="69" height="20" x="65" y="234" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="69" height="20" x="60" y="240" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="65" y="254" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="69" height="20" x="60" y="260" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="65" y="274" style="fill:black;" font-family="Arial" font-size="16px">slug</text>
+   <rect width="69" height="20" x="60" y="280" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="65" y="294" style="fill:black;" font-family="Arial" font-size="16px">orders</text>
+   <rect width="69" height="20" x="60" y="300" style="fill:none;stroke:black;"/>
+   <text width="69" height="20" x="65" y="314" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="94" height="20" x="60" y="20" style="fill:#007;stroke:black;"/>
+   <text width="94" height="20" x="65" y="34" style="fill:#fff;" font-family="Arial" font-size="16px"> db_category</text>
+   <rect width="94" height="20" x="60" y="40" style="fill:#aea;stroke:black;"/>
+   <text width="94" height="20" x="65" y="54" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="94" height="20" x="60" y="60" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="65" y="74" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="94" height="20" x="60" y="80" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="65" y="94" style="fill:black;" font-family="Arial" font-size="16px">slug</text>
+   <rect width="94" height="20" x="60" y="100" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="65" y="114" style="fill:black;" font-family="Arial" font-size="16px">parent_id</text>
+   <rect width="94" height="20" x="60" y="120" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="65" y="134" style="fill:black;" font-family="Arial" font-size="16px">orders</text>
+   <rect width="94" height="20" x="60" y="140" style="fill:none;stroke:black;"/>
+   <text width="94" height="20" x="65" y="154" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="84" height="20" x="1160" y="40" style="fill:#007;stroke:black;"/>
+   <text width="84" height="20" x="1165" y="54" style="fill:#fff;" font-family="Arial" font-size="16px"> db_contact</text>
+   <rect width="84" height="20" x="1160" y="60" style="fill:#aea;stroke:black;"/>
+   <text width="84" height="20" x="1165" y="74" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="84" height="20" x="1160" y="80" style="fill:none;stroke:black;"/>
+   <text width="84" height="20" x="1165" y="94" style="fill:black;" font-family="Arial" font-size="16px">fullname</text>
+   <rect width="84" height="20" x="1160" y="100" style="fill:none;stroke:black;"/>
+   <text width="84" height="20" x="1165" y="114" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="84" height="20" x="1160" y="120" style="fill:none;stroke:black;"/>
+   <text width="84" height="20" x="1165" y="134" style="fill:black;" font-family="Arial" font-size="16px">phone</text>
+   <rect width="84" height="20" x="1160" y="140" style="fill:none;stroke:black;"/>
+   <text width="84" height="20" x="1165" y="154" style="fill:black;" font-family="Arial" font-size="16px">title</text>
+   <rect width="84" height="20" x="1160" y="160" style="fill:none;stroke:black;"/>
+   <text width="84" height="20" x="1165" y="174" style="fill:black;" font-family="Arial" font-size="16px">detail</text>
+   <rect width="84" height="20" x="1160" y="180" style="fill:none;stroke:black;"/>
+   <text width="84" height="20" x="1165" y="194" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="90" height="20" x="520" y="20" style="fill:#007;stroke:black;"/>
+   <text width="90" height="20" x="525" y="34" style="fill:#fff;" font-family="Arial" font-size="16px"> db_hotdeal</text>
+   <rect width="90" height="20" x="520" y="40" style="fill:#aea;stroke:black;"/>
+   <text width="90" height="20" x="525" y="54" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="90" height="20" x="520" y="60" style="fill:none;stroke:black;"/>
+   <text width="90" height="20" x="525" y="74" style="fill:black;" font-family="Arial" font-size="16px">product_id</text>
+   <rect width="90" height="20" x="520" y="80" style="fill:none;stroke:black;"/>
+   <text width="90" height="20" x="525" y="94" style="fill:black;" font-family="Arial" font-size="16px">create_time</text>
+   <rect width="90" height="20" x="520" y="100" style="fill:none;stroke:black;"/>
+   <text width="90" height="20" x="525" y="114" style="fill:black;" font-family="Arial" font-size="16px">end_time</text>
+   <rect width="90" height="20" x="520" y="120" style="fill:none;stroke:black;"/>
+   <text width="90" height="20" x="525" y="134" style="fill:black;" font-family="Arial" font-size="16px">promotion</text>
+   <rect width="123" height="20" x="230" y="530" style="fill:#007;stroke:black;"/>
+   <text width="123" height="20" x="235" y="544" style="fill:#fff;" font-family="Arial" font-size="16px"> db_member_card</text>
+   <rect width="123" height="20" x="230" y="550" style="fill:#aea;stroke:black;"/>
+   <text width="123" height="20" x="235" y="564" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="123" height="20" x="230" y="570" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="235" y="584" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="123" height="20" x="230" y="590" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="235" y="604" style="fill:black;" font-family="Arial" font-size="16px">promotion</text>
+   <rect width="123" height="20" x="230" y="610" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="235" y="624" style="fill:black;" font-family="Arial" font-size="16px">info1</text>
+   <rect width="123" height="20" x="230" y="630" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="235" y="644" style="fill:black;" font-family="Arial" font-size="16px">info2</text>
+   <rect width="123" height="20" x="230" y="650" style="fill:none;stroke:black;"/>
+   <text width="123" height="20" x="235" y="664" style="fill:black;" font-family="Arial" font-size="16px">info3</text>
+   <rect width="73" height="20" x="1160" y="230" style="fill:#007;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="244" style="fill:#fff;" font-family="Arial" font-size="16px"> db_menu</text>
+   <rect width="73" height="20" x="1160" y="250" style="fill:#aea;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="264" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="73" height="20" x="1160" y="270" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="284" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="73" height="20" x="1160" y="290" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="304" style="fill:black;" font-family="Arial" font-size="16px">type</text>
+   <rect width="73" height="20" x="1160" y="310" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="324" style="fill:black;" font-family="Arial" font-size="16px">link</text>
+   <rect width="73" height="20" x="1160" y="330" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="344" style="fill:black;" font-family="Arial" font-size="16px">table_id</text>
+   <rect width="73" height="20" x="1160" y="350" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="364" style="fill:black;" font-family="Arial" font-size="16px">parent_id</text>
+   <rect width="73" height="20" x="1160" y="370" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="384" style="fill:black;" font-family="Arial" font-size="16px">orders</text>
+   <rect width="73" height="20" x="1160" y="390" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="404" style="fill:black;" font-family="Arial" font-size="16px">position</text>
+   <rect width="73" height="20" x="1160" y="410" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="1165" y="424" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="65" height="20" x="800" y="50" style="fill:#007;stroke:black;"/>
+   <text width="65" height="20" x="805" y="64" style="fill:#fff;" font-family="Arial" font-size="16px"> db_order</text>
+   <rect width="65" height="20" x="800" y="70" style="fill:#aea;stroke:black;"/>
+   <text width="65" height="20" x="805" y="84" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="65" height="20" x="800" y="90" style="fill:none;stroke:black;"/>
+   <text width="65" height="20" x="805" y="104" style="fill:black;" font-family="Arial" font-size="16px">user_id</text>
+   <rect width="65" height="20" x="800" y="110" style="fill:none;stroke:black;"/>
+   <text width="65" height="20" x="805" y="124" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="109" height="20" x="520" y="180" style="fill:#007;stroke:black;"/>
+   <text width="109" height="20" x="525" y="194" style="fill:#fff;" font-family="Arial" font-size="16px"> db_orderdetail</text>
+   <rect width="109" height="20" x="520" y="200" style="fill:#aea;stroke:black;"/>
+   <text width="109" height="20" x="525" y="214" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="109" height="20" x="520" y="220" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="525" y="234" style="fill:black;" font-family="Arial" font-size="16px">order_id</text>
+   <rect width="109" height="20" x="520" y="240" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="525" y="254" style="fill:black;" font-family="Arial" font-size="16px">product_id</text>
+   <rect width="109" height="20" x="520" y="260" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="525" y="274" style="fill:black;" font-family="Arial" font-size="16px">price</text>
+   <rect width="109" height="20" x="520" y="280" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="525" y="294" style="fill:black;" font-family="Arial" font-size="16px">quantity</text>
+   <rect width="61" height="20" x="910" y="300" style="fill:#007;stroke:black;"/>
+   <text width="61" height="20" x="915" y="314" style="fill:#fff;" font-family="Arial" font-size="16px"> db_post</text>
+   <rect width="61" height="20" x="910" y="320" style="fill:#aea;stroke:black;"/>
+   <text width="61" height="20" x="915" y="334" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="61" height="20" x="910" y="340" style="fill:none;stroke:black;"/>
+   <text width="61" height="20" x="915" y="354" style="fill:black;" font-family="Arial" font-size="16px">topic_id</text>
+   <rect width="61" height="20" x="910" y="360" style="fill:none;stroke:black;"/>
+   <text width="61" height="20" x="915" y="374" style="fill:black;" font-family="Arial" font-size="16px">title</text>
+   <rect width="61" height="20" x="910" y="380" style="fill:none;stroke:black;"/>
+   <text width="61" height="20" x="915" y="394" style="fill:black;" font-family="Arial" font-size="16px">slug</text>
+   <rect width="61" height="20" x="910" y="400" style="fill:none;stroke:black;"/>
+   <text width="61" height="20" x="915" y="414" style="fill:black;" font-family="Arial" font-size="16px">detail</text>
+   <rect width="61" height="20" x="910" y="420" style="fill:none;stroke:black;"/>
+   <text width="61" height="20" x="915" y="434" style="fill:black;" font-family="Arial" font-size="16px">img</text>
+   <rect width="61" height="20" x="910" y="440" style="fill:none;stroke:black;"/>
+   <text width="61" height="20" x="915" y="454" style="fill:black;" font-family="Arial" font-size="16px">type</text>
+   <rect width="61" height="20" x="910" y="460" style="fill:none;stroke:black;"/>
+   <text width="61" height="20" x="915" y="474" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="135" height="20" x="860" y="170" style="fill:#007;stroke:black;"/>
+   <text width="135" height="20" x="865" y="184" style="fill:#fff;" font-family="Arial" font-size="16px"> db_post_comment</text>
+   <rect width="135" height="20" x="860" y="190" style="fill:#aea;stroke:black;"/>
+   <text width="135" height="20" x="865" y="204" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="135" height="20" x="860" y="210" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="865" y="224" style="fill:black;" font-family="Arial" font-size="16px">post_id</text>
+   <rect width="135" height="20" x="860" y="230" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="865" y="244" style="fill:black;" font-family="Arial" font-size="16px">user_id</text>
+   <rect width="135" height="20" x="860" y="250" style="fill:none;stroke:black;"/>
+   <text width="135" height="20" x="865" y="264" style="fill:black;" font-family="Arial" font-size="16px">detail</text>
+   <rect width="89" height="20" x="290" y="20" style="fill:#007;stroke:black;"/>
+   <text width="89" height="20" x="295" y="34" style="fill:#fff;" font-family="Arial" font-size="16px"> db_product</text>
+   <rect width="89" height="20" x="290" y="40" style="fill:#aea;stroke:black;"/>
+   <text width="89" height="20" x="295" y="54" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="89" height="20" x="290" y="60" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="74" style="fill:black;" font-family="Arial" font-size="16px">category_id</text>
+   <rect width="89" height="20" x="290" y="80" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="94" style="fill:black;" font-family="Arial" font-size="16px">brand_id</text>
+   <rect width="89" height="20" x="290" y="100" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="114" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="89" height="20" x="290" y="120" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="134" style="fill:black;" font-family="Arial" font-size="16px">slug</text>
+   <rect width="89" height="20" x="290" y="140" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="154" style="fill:black;" font-family="Arial" font-size="16px">smdetail</text>
+   <rect width="89" height="20" x="290" y="160" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="174" style="fill:black;" font-family="Arial" font-size="16px">detail</text>
+   <rect width="89" height="20" x="290" y="180" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="194" style="fill:black;" font-family="Arial" font-size="16px">material</text>
+   <rect width="89" height="20" x="290" y="200" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="214" style="fill:black;" font-family="Arial" font-size="16px">size</text>
+   <rect width="89" height="20" x="290" y="220" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="234" style="fill:black;" font-family="Arial" font-size="16px">quantity</text>
+   <rect width="89" height="20" x="290" y="240" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="254" style="fill:black;" font-family="Arial" font-size="16px">price</text>
+   <rect width="89" height="20" x="290" y="260" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="274" style="fill:black;" font-family="Arial" font-size="16px">promtion</text>
+   <rect width="89" height="20" x="290" y="280" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="294" style="fill:black;" font-family="Arial" font-size="16px">trending</text>
+   <rect width="89" height="20" x="290" y="300" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="314" style="fill:black;" font-family="Arial" font-size="16px">view</text>
+   <rect width="89" height="20" x="290" y="320" style="fill:none;stroke:black;"/>
+   <text width="89" height="20" x="295" y="334" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="158" height="20" x="230" y="400" style="fill:#007;stroke:black;"/>
+   <text width="158" height="20" x="235" y="414" style="fill:#fff;" font-family="Arial" font-size="16px"> db_product_comment</text>
+   <rect width="158" height="20" x="230" y="420" style="fill:#aea;stroke:black;"/>
+   <text width="158" height="20" x="235" y="434" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="158" height="20" x="230" y="440" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="235" y="454" style="fill:black;" font-family="Arial" font-size="16px">product_id</text>
+   <rect width="158" height="20" x="230" y="460" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="235" y="474" style="fill:black;" font-family="Arial" font-size="16px">user_id</text>
+   <rect width="158" height="20" x="230" y="480" style="fill:none;stroke:black;"/>
+   <text width="158" height="20" x="235" y="494" style="fill:black;" font-family="Arial" font-size="16px">detail</text>
+   <rect width="72" height="20" x="1160" y="460" style="fill:#007;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="474" style="fill:#fff;" font-family="Arial" font-size="16px"> db_slider</text>
+   <rect width="72" height="20" x="1160" y="480" style="fill:#aea;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="494" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="72" height="20" x="1160" y="500" style="fill:none;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="514" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="72" height="20" x="1160" y="520" style="fill:none;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="534" style="fill:black;" font-family="Arial" font-size="16px">link</text>
+   <rect width="72" height="20" x="1160" y="540" style="fill:none;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="554" style="fill:black;" font-family="Arial" font-size="16px">position</text>
+   <rect width="72" height="20" x="1160" y="560" style="fill:none;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="574" style="fill:black;" font-family="Arial" font-size="16px">info1</text>
+   <rect width="72" height="20" x="1160" y="580" style="fill:none;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="594" style="fill:black;" font-family="Arial" font-size="16px">info2</text>
+   <rect width="72" height="20" x="1160" y="600" style="fill:none;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="614" style="fill:black;" font-family="Arial" font-size="16px">info3</text>
+   <rect width="72" height="20" x="1160" y="620" style="fill:none;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="634" style="fill:black;" font-family="Arial" font-size="16px">img</text>
+   <rect width="72" height="20" x="1160" y="640" style="fill:none;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="654" style="fill:black;" font-family="Arial" font-size="16px">orders</text>
+   <rect width="72" height="20" x="1160" y="660" style="fill:none;stroke:black;"/>
+   <text width="72" height="20" x="1165" y="674" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="73" height="20" x="900" y="520" style="fill:#007;stroke:black;"/>
+   <text width="73" height="20" x="905" y="534" style="fill:#fff;" font-family="Arial" font-size="16px"> db_topic</text>
+   <rect width="73" height="20" x="900" y="540" style="fill:#aea;stroke:black;"/>
+   <text width="73" height="20" x="905" y="554" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="73" height="20" x="900" y="560" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="905" y="574" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="73" height="20" x="900" y="580" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="905" y="594" style="fill:black;" font-family="Arial" font-size="16px">slug</text>
+   <rect width="73" height="20" x="900" y="600" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="905" y="614" style="fill:black;" font-family="Arial" font-size="16px">parent_id</text>
+   <rect width="73" height="20" x="900" y="620" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="905" y="634" style="fill:black;" font-family="Arial" font-size="16px">orders</text>
+   <rect width="73" height="20" x="900" y="640" style="fill:none;stroke:black;"/>
+   <text width="73" height="20" x="905" y="654" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="81" height="20" x="530" y="340" style="fill:#007;stroke:black;"/>
+   <text width="81" height="20" x="535" y="354" style="fill:#fff;" font-family="Arial" font-size="16px"> db_user</text>
+   <rect width="81" height="20" x="530" y="360" style="fill:#aea;stroke:black;"/>
+   <text width="81" height="20" x="535" y="374" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="81" height="20" x="530" y="380" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="394" style="fill:black;" font-family="Arial" font-size="16px">fullname</text>
+   <rect width="81" height="20" x="530" y="400" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="414" style="fill:black;" font-family="Arial" font-size="16px">username</text>
+   <rect width="81" height="20" x="530" y="420" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="434" style="fill:black;" font-family="Arial" font-size="16px">password</text>
+   <rect width="81" height="20" x="530" y="440" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="454" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="81" height="20" x="530" y="460" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="474" style="fill:black;" font-family="Arial" font-size="16px">address</text>
+   <rect width="81" height="20" x="530" y="480" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="494" style="fill:black;" font-family="Arial" font-size="16px">gender</text>
+   <rect width="81" height="20" x="530" y="500" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="514" style="fill:black;" font-family="Arial" font-size="16px">phone</text>
+   <rect width="81" height="20" x="530" y="520" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="534" style="fill:black;" font-family="Arial" font-size="16px">img</text>
+   <rect width="81" height="20" x="530" y="540" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="554" style="fill:black;" font-family="Arial" font-size="16px">role</text>
+   <rect width="81" height="20" x="530" y="560" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="574" style="fill:black;" font-family="Arial" font-size="16px">rank_id</text>
+   <rect width="81" height="20" x="530" y="580" style="fill:none;stroke:black;"/>
+   <text width="81" height="20" x="535" y="594" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+</svg>
